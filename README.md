@@ -8,9 +8,9 @@ This guide explains how to set up a Minecraft server using the PufferPanel contr
 
 1. **Locate the 'Port' Option**: When creating a Minecraft server in the PufferPanel, ensure you locate the 'Port' option. Initially, set it to '25565'.
 
-3. if your server is created by Velocity the go to **velocity.toml** an change the:
+3. **if your server is created by Velocity the go to** **velocity.toml** an change the:
 **# What port should the proxy be bound to? By default, we'll bind to all addresses on port 25577.
-bind = "0.0.0.0:25577** change it according to you
+bind = "0.0.0.0:25577** **change it according to you it not work if you change the port in Puffer Panel setting you must do it in the "velocity.toml" file to work**
 
 4. **Single Server Configuration**: If your server is exclusively in the PufferPanel, there shouldn't be any issues with the default port.
 
