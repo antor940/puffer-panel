@@ -22,4 +22,4 @@ This guide explains how to set up a Minecraft server using the PufferPanel contr
 
 - Ensure you follow the steps correctly to have your server online and accessible.
 - Always remember to save and apply your changes after modifying server settings.
-
+## if you don't know how to make puffer panel then go to this URL https://github.com/antor940/freevps/blob/main/README.md#how-to-make-a-vpsrdp--minecraft-server-hosting-panel-with-puffer-panel
